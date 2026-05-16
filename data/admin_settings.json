@@ -1,0 +1,20 @@
+{
+    "site_name": "Admin Panel",
+    "admin_users": {
+        "semhkaramn": {
+            "password": "Abuzittin74.",
+            "name": "Süper Yönetici",
+            "role": "super_admin",
+            "created_at": "2025-07-20 11:45:00"
+        },
+        "admin": {
+            "password": "admin123",
+            "name": "Yönetici",
+            "role": "admin",
+            "created_at": "2025-07-29 17:18:57"
+        }
+    },
+    "security": {
+        "session_timeout": 3600
+    }
+}

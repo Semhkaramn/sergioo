@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "semhkaramn",
+            "email": "semhkaramn@gmail.com",
+            "password": "$2y$10$yHx74ZYVXzunSp6CKvULEe3g6SXNA4\/fq15n3Mmqp7cV0qHj5rNzK",
+            "points": 0,
+            "level": 1,
+            "telegram_id": null,
+            "telegram_username": null,
+            "telegram_verified": false,
+            "telegram_code": "507B1D04",
+            "avatar": null,
+            "created_at": "2026-05-16 05:11:03",
+            "last_login": "2026-05-16 05:11:07",
+            "total_messages": 0,
+            "daily_messages": 0,
+            "last_message_date": null
+        }
+    ],
+    "next_id": 2
+}
