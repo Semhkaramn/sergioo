@@ -1,0 +1,159 @@
+{
+    "social_links": {
+        "telegram": "",
+        "instagram": "",
+        "youtube": "",
+        "twitter": "",
+        "facebook": "",
+        "discord": "",
+        "whatsapp": "",
+        "tiktok": "",
+        "teams": "",
+        "email": ""
+    },
+    "sections": {
+        "section1": {
+            "title": "<span>ANA<\/span> Sponsorlar",
+            "active": true
+        },
+        "section2": {
+            "title": "<span>VIP<\/span> Sponsorlar",
+            "active": true
+        }
+    },
+    "sites": [
+        {
+            "id": 1,
+            "name": "dodobet",
+            "logo": "dodobet_1779989965.gif",
+            "link": "https:\/\/dodoref1.com\/XU8z",
+            "description": "1000TL YATIRIMSIZ ÇEVRİMSİZ DENEME BONUSU\r\n ⚫️ %500 İLK YATIRIM BONUSU ⚫️",
+            "active": true,
+            "created_at": "2026-05-28 17:39:25"
+        },
+        {
+            "id": 2,
+            "name": "Lordpalace Casino",
+            "logo": "lordpalacecasino_1779993044.gif",
+            "link": "https:\/\/tinyurl.com\/3wbaehab",
+            "description": "250₺ Deneme Bonusu",
+            "active": true,
+            "created_at": "2026-05-28 18:30:44",
+            "updated_at": "2026-05-28 18:35:54"
+        },
+        {
+            "id": 3,
+            "name": "Gobahis",
+            "logo": "gobahis_1779993133.png",
+            "link": "https:\/\/urlcentre.com\/_CGVZJ",
+            "description": "500TL Deneme Bonusu ⚫️ %100 İlk Yatırım Bonusu ⚫️ %100 İlk Yatırım İade Bonusu",
+            "active": true,
+            "created_at": "2026-05-28 18:32:13",
+            "updated_at": "2026-05-28 18:35:47"
+        },
+        {
+            "id": 4,
+            "name": "Pradabet",
+            "logo": "pradabet_1779993225.webp",
+            "link": "https:\/\/t2m.co\/blackprada",
+            "description": "1000 TL DENEME BONUSU ⚫️ 250₺ HAVALE  ⚫️ %30 KAYIP BONUS",
+            "active": true,
+            "created_at": "2026-05-28 18:33:45",
+            "updated_at": "2026-05-28 18:36:17"
+        },
+        {
+            "id": 5,
+            "name": "Bayconti",
+            "logo": "bayconti_1779993321.png",
+            "link": "https:\/\/t.ly\/bcBlack",
+            "description": "3333TL DENEME BONUSU",
+            "active": true,
+            "created_at": "2026-05-28 18:35:21"
+        },
+        {
+            "id": 6,
+            "name": "Bahisbom",
+            "logo": "bahisbom_1779993446.gif",
+            "link": "https:\/\/bom.lat\/Karabey",
+            "description": "250₺ Havale ⚫️ 25.000₺ Hoşgeldin Bonusu ⚫️ 250₺Deneme Bonusu",
+            "active": true,
+            "created_at": "2026-05-28 18:37:26"
+        },
+        {
+            "id": 7,
+            "name": "Mariobet",
+            "logo": "mariobet_1779993750.png",
+            "link": "https:\/\/girismario.com\/LI5",
+            "description": "1000₺ Deneme Bonusu",
+            "active": true,
+            "created_at": "2026-05-28 18:42:30"
+        }
+    ],
+    "banners": [
+        {
+            "id": 1,
+            "site_id": 3,
+            "title": "<\/span>500₺ Deneme Bonusu ⚫️ %100 İlk Yatırım Bonusu ⚫️ %100 İlk Yatırım İade Bonusu",
+            "link": "https:\/\/urlcentre.com\/_CGVZJ",
+            "type": "second",
+            "active": true,
+            "order": 1
+        },
+        {
+            "id": 2,
+            "site_id": 2,
+            "title": "<\/span>250₺ Deneme Bonusu ",
+            "link": "https:\/\/tinyurl.com\/3wbaehab",
+            "type": "second",
+            "active": true,
+            "order": 2
+        },
+        {
+            "id": 3,
+            "site_id": 1,
+            "title": "<\/span>1000TL YATIRIMSIZ ÇEVRİMSİZ DENEME BONUSU ⚫️ %500 İLK YATIRIM BONUSU ",
+            "link": "https:\/\/dodoref1.com\/XU8z",
+            "type": "second",
+            "active": true,
+            "order": 3
+        }
+    ],
+    "categories": {
+        "section1": [
+            3,
+            1,
+            2
+        ],
+        "section2": [
+            4,
+            5,
+            6,
+            7
+        ]
+    },
+    "popup": {
+        "number": "de",
+        "title": "asdfs",
+        "subtitle": "asdfsad",
+        "site_id": 1,
+        "active": true
+    },
+    "slots": [
+        {
+            "id": 1,
+            "title": "<span>KARABEY<\/span> SOHBET",
+            "link": "https:\/\/t.me\/+cELtHJiU0wQwMWI0",
+            "text": "Sohbet Grubu",
+            "type": "telegram",
+            "active": true
+        },
+        {
+            "id": 2,
+            "title": "BİZE ULAŞIN",
+            "link": "https:\/\/t.me\/blacgram",
+            "text": "Sitelerimizde yaşadığınız herhangi bir sorunda bize ulaşın",
+            "type": "telegram",
+            "active": true
+        }
+    ]
+}
